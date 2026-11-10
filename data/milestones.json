@@ -1,0 +1,7 @@
+{"id":"mv-android-too","subject":"mnemonic-vocabulary","ord":7,"title":"And maybe Android","horizon":"ongoing","readiness":9,"criteria":"backlog:mv-android","why":"The same core, wherever a person is."}
+{"id":"mv-designed","subject":"mnemonic-vocabulary","ord":2,"title":"Designed","horizon":"working","readiness":2,"criteria":"backlog:mv-earlier-lessons backlog:mv-architecture","why":"Lessons from the earlier mnevo, and an architecture."}
+{"id":"mv-encodes","subject":"mnemonic-vocabulary","ord":3,"title":"Encodes and recalls","horizon":"working","readiness":5,"criteria":"backlog:mv-techniques backlog:mv-core","why":"The techniques, working in a core."}
+{"id":"mv-everywhere","subject":"mnemonic-vocabulary","ord":6,"title":"On a PC and a phone","horizon":"perfection","readiness":8,"criteria":"backlog:mv-linux","why":"One core, on Linux."}
+{"id":"mv-kingdom-seen","subject":"mnemonic-vocabulary","ord":4,"title":"The memory kingdom, seen","horizon":"working","readiness":6,"criteria":"backlog:mv-kingdom","why":"What was built in the mind, reflected."}
+{"id":"mv-lasting","subject":"mnemonic-vocabulary","ord":5,"title":"Memories that last","horizon":"perfection","readiness":7,"criteria":"backlog:mv-intervals","why":"Refreshed at the best intervals."}
+{"id":"mv-written","subject":"mnemonic-vocabulary","ord":1,"title":"The idea, written down","horizon":"working","readiness":1,"criteria":"backlog:mv-idea","why":"So it is not forgotten."}

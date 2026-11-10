@@ -1,0 +1,18 @@
+# This repository's mark: how it fits the Open Commons Observatory's picture.
+schema = 1
+
+[project]
+id = "Mnemonic-Vocabulary-org/mnemonic-vocabulary-oco"
+name = "Mnemonic Vocabulary: an interactive engine for mnemonic techniques and the memory kingdom they build"
+title = "Mnemonic Vocabulary"
+kind = "research"
+parent = "open-commons-observatory"
+
+[exports]
+concepts = "data/concepts.json"
+backlog = "data/backlog.json"
+milestones = "data/milestones.json"
+session_log = "data/session_log.json"
+activity = "oco/gathered/activity.json@oco-data"
+releases = "oco/gathered/releases.json@oco-data"
+ci = "oco/gathered/ci.json@oco-data"
